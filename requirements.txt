@@ -1,0 +1,10 @@
+numpy
+jupyter
+opencv-python
+matplotlib
+sklearn
+pillow
+keras
+tensorflow
+Augmentor
+imblearn
