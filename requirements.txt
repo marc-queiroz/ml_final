@@ -1,5 +1,5 @@
 numpy
-jupyter
+jupyterlab
 opencv-python
 matplotlib
 sklearn
